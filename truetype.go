@@ -3,7 +3,7 @@ package glfont
 import (
 	"fmt"
 	"github.com/go-gl/gl/v2.1/gl"
-	"github.com/golang/freetype"
+	"github.com/Marcon/freetype"
 	"github.com/golang/freetype/truetype"
 	"golang.org/x/image/font"
 	"golang.org/x/image/math/fixed"
